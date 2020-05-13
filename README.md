@@ -1,0 +1,2 @@
+# Degradation-data-driven-Time-to-failure-TTF-prognostics-approach-for-rolling-element-bearings
+Multiple degradation features are extracted in order to detect the degradation phenomenon of REBs and to track their time evolution.We have used ensemble empirical mode decomposition with adaptive noise and Hilbert Huang transform methods.The degradation feature reduction is constructed by analyzing their monotonic, robustness and correlation to fault the evolution of REBs.
